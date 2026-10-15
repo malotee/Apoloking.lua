@@ -38,7 +38,7 @@ local CFG = {
 }
 
 -- Pon aqui tu enlace raw de GitHub. Es la forma MAS confiable de auto-exec.
-local AUTOEXEC_URL = ""
+local AUTOEXEC_URL = "https://raw.githubusercontent.com/malotee/Apoloking.lua/main/Apoloking.lua"
 
 --==================================================================================
 -- 2) SERVICIOS
